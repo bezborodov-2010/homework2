@@ -48,5 +48,15 @@ public class Main {
         System.out.println("второй способ:");
         var result3 = weightBoxer2%weightBoxer1;
         System.out.println("разница в весе боксеров "+result3+" кг");
+        System.out.println("Задача 8");
+        System.out.println("Задача 8.1");
+        var x = 640;
+        var y = 8;
+        var result4 = x/y;
+        System.out.println("Всего работников в компании - "+result4+" человек");
+        System.out.println("Задача 8.2");
+        var result5 = result4+94;
+        var result6 = x/result5;
+        System.out.println("Если в компании работает "+result5+" человек, то всего "+result6+" часов работы может быть поделено между сотрудниками");
     }
 }
