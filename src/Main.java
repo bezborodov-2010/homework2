@@ -22,6 +22,13 @@ public class Main {
         System.out.println("friend = "+friend2);
         var friend3 = friend2/7;
         System.out.println("friend = "+friend3);
-
+        var frog = 3.5;
+        System.out.println("frog = "+frog);
+        var frog2 = frog*10;
+        System.out.println("frog = "+frog2);
+        var frog3 = frog2/3.5;
+        System.out.println("frog = "+frog3);
+        var frog4 = frog3+4;
+        System.out.println("frog = "+frog4);
     }
 }
