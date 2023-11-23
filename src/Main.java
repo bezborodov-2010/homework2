@@ -4,10 +4,10 @@ public class Main {
         var dog = 8.0;
         var cat = 3.6;
         var paper = 763789;
-        System.out.println("Задача 2");
         System.out.println("dog = "+dog);
         System.out.println("cat = "+cat);
         System.out.println("paper = "+paper);
+        System.out.println("Задача 2");
         var newDog = dog+4;
         var newCat = cat+4;
         var newPaper = paper+4;
